@@ -1,8 +1,26 @@
 
+{% style %}
+:is(
+    .header[transparent][transparent="not-sticky"][data-sticky-state="active"],
+    .header[transparent]:hover,
+    .header[transparent]:has(.header-menu[aria-expanded="true"]),
+    .header[transparent]:has(nav[header-menu]:focus-within),
+    .header[transparent]:has(.menu-list__link[data-animating]),
+    .header[transparent]:has(.account-popover[open]),
+    .header[transparent]:has(.localization-wrapper:not([hidden]))
+  )
+  .header__row {
+  background-image: url(" https://cdn.shopify.com/s/files/1/0765/4503/2430/files/bg-hdr-ftr2.jpg?v=1754567060");
+}
 
+.footer-bg {
+  background-image: url(" https://cdn.shopify.com/s/files/1/0765/4503/2430/files/bg-hdr-ftr2.jpg?v=1754567060");
+  background-repeat:repeat;
+}
+{% endstyle %}
 <div class="section-background color-{{ section.settings.color_scheme }}"></div>
 <div
-  class="
+  class="footer-bg
     section section--{{ section.settings.section_width }} color-{{ section.settings.color_scheme }}
     {% if section.settings.section_height != "" %} {{ section.settings.section_height | prepend: "section--height-" }}{% endif %}
   "
