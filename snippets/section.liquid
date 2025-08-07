@@ -93,11 +93,8 @@
   .custom-section-content {
     z-index: var(--layer-flat);
   }
-{% endstylesheet %}
 
-
-{% style %}
-:is(
+  :is(
     .header[transparent][transparent="not-sticky"][data-sticky-state="active"],
     .header[transparent]:hover,
     .header[transparent]:has(.header-menu[aria-expanded="true"]),
@@ -114,4 +111,5 @@
   background-image: url(" https://cdn.shopify.com/s/files/1/0765/4503/2430/files/bg-hdr-ftr2.jpg?v=1754567060");
   background-repeat:repeat;
 }
-{% endstyle %}
+{% endstylesheet %}
+
