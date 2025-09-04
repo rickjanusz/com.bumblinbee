@@ -694,7 +694,7 @@
         "text_3HFWm8": {
           "type": "text",
           "settings": {
-            "text": "<h3>Now Pouring Fall</h3>",
+            "text": "<h3>Currently Pouring Fall</h3>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
