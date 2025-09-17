@@ -601,6 +601,8 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      ".checkbox__label-text{text-transform: capitalize}"
+    ]
   }
 }
