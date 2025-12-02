@@ -128,7 +128,7 @@
       ],
       "settings": {
         "media_type_1": "image",
-        "image_1": "shopify://shop_images/fall_table-Camera_2.png",
+        "image_1": "shopify://shop_images/christmas_collage-Camera_2.png",
         "media_type_2": "image",
         "link": "",
         "open_in_new_tab": false,
@@ -497,7 +497,7 @@
         "image_i7rrDE": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/14_jack-o-lantern_2.png",
+            "image": "shopify://shop_images/14_Frosty_Night-Camera_2_286b2c35-422c-4fa2-9b82-cd94e7f26c78.png",
             "link": "",
             "image_ratio": "square",
             "width": "fill",
@@ -558,7 +558,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h5>Every Pumpkin is a Lantern</h5>",
+                "text": "<h4>Magic is in the Air</h4>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -584,7 +584,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<h2>Jack O'Lantern.</h2>",
+                "text": "<h2>Frosty Night.</h2>",
                 "width": "fit-content",
                 "max_width": "normal",
                 "alignment": "left",
@@ -609,7 +609,7 @@
             "text_76GdM3": {
               "type": "text",
               "settings": {
-                "text": "<h4><strong>Caramel, Pecan & Pumpkin </strong><br/>The All Hallows Eve celebration is underway with this enchanting fragrance. The scent starts with notes of butter and orange peel, then blends in accords of scrumptious caramel, maple, and pumpkin. A nutty, pecan aroma lingers on the dry down. This gourmand fragrance will fill any space with the delicious scents of the season.</h4>",
+                "text": "<h4><strong>Frasier Fir</strong></h4><p><strong>Triple Scented & Hand-Poured: </strong>The winter chill is in the air tonight—warm up with this favorite woodsy scent. Bright citrus top notes blend with earthy undertones and a fresh fir balsam core. Cozy and comforting, it’s perfect for holiday ambience or peaceful winter evenings by the fire.</p><ul><li><strong>Cozy Winter Candle</strong> – Perfect for holiday or quiet evenings.</li><li><strong>Triple Scented for Maximum Aroma</strong> – Citrus top with earthy undertones.</li><li><strong>Woodsy Heart</strong> – Fir balsam core for fresh evergreen warmth.</li><li><strong>Comforting Base</strong> – Creates a relaxing holiday mood.</li><li><strong>Gift-Ready</strong> – Ideal for winter gatherings.</li></ul>",
                 "width": "100%",
                 "max_width": "normal",
                 "alignment": "left",
@@ -635,7 +635,7 @@
               "type": "button",
               "settings": {
                 "label": "Shop now",
-                "link": "shopify://products/jack-o-lantern",
+                "link": "shopify://products/frosty-night",
                 "open_in_new_tab": false,
                 "style_class": "button",
                 "width": "fit-content",
