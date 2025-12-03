@@ -986,7 +986,7 @@
       },
       "name": "t:names.products_carousel",
       "settings": {
-        "collection": "fall-collection",
+        "collection": "winter-collection",
         "layout_type": "carousel",
         "carousel_on_mobile": false,
         "max_products": 16,
