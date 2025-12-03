@@ -318,6 +318,45 @@
           "selected_variant_hover_text_color": "#ffffff",
           "selected_variant_hover_border_color": "#1a1a1a"
         }
+      },
+      "scheme-471891b3-747e-49cd-80d8-414b0239da94": {
+        "settings": {
+          "background": "#09230aea",
+          "foreground_heading": "#ffffff",
+          "foreground": "#ffffff",
+          "primary": "#e6e6e6",
+          "primary_hover": "#ffffff",
+          "border": "#e6e6e6",
+          "shadow": "#000000",
+          "primary_button_background": "#861719",
+          "primary_button_text": "#ffffff",
+          "primary_button_border": "#a42325",
+          "primary_button_hover_background": "#780406e8",
+          "primary_button_hover_text": "#ffffff",
+          "primary_button_hover_border": "#000000",
+          "secondary_button_background": "#0000000f",
+          "secondary_button_text": "#000000",
+          "secondary_button_border": "#a42325",
+          "secondary_button_hover_background": "#dedede",
+          "secondary_button_hover_text": "#000000",
+          "secondary_button_hover_border": "#000000",
+          "input_background": "#ffffff",
+          "input_text_color": "#000000",
+          "input_border_color": "#e6e6e6",
+          "input_hover_background": "#f5f5f5",
+          "variant_background_color": "#ffffff",
+          "variant_text_color": "#000000",
+          "variant_border_color": "#e6e6e6",
+          "variant_hover_background_color": "#f5f5f5",
+          "variant_hover_text_color": "#000000",
+          "variant_hover_border_color": "#e6e6e6",
+          "selected_variant_background_color": "#000000",
+          "selected_variant_text_color": "#ffffff",
+          "selected_variant_border_color": "#000000",
+          "selected_variant_hover_background_color": "#1a1a1a",
+          "selected_variant_hover_text_color": "#ffffff",
+          "selected_variant_hover_border_color": "#1a1a1a"
+        }
       }
     }
   },
@@ -602,7 +641,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".checkbox__label-text{text-transform: capitalize}"
+      ".checkbox__label-text {text-transform: capitalize;}"
     ]
   }
 }
